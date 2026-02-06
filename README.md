@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World Im Galuh Surya Putra 👋
 
 <!--
 **Ptragaluhhh28/Ptragaluhhh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZmdDhoeDh1dDJoMGx6YmIwNmlxMzkxZWY3a2s4MWNvcGhua29jciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pVWuLuV1JESZJdebkI/giphy.gif)
