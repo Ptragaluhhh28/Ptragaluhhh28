@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Galuh Surya Putra](img/pfp.jpg)
 
-#### Skills
+## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,py,java,react,nodejs,laravel,vscode,ai,ps,instagram,github,discord&theme=light)](https://skillicons.dev)
 
