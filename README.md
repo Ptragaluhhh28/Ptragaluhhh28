@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Galuh Surya Putra](img/github-header-banner.jpg)
+![Galuh Surya Putra](img/github-header-banner.png)
