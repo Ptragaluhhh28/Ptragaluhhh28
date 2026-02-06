@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Galuh Surya Putra](img/pfp.jpg)
+
+####Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,nodejs,laravel,vscode,ai,instagram,discord,robloxstudio&theme=light)](https://skillicons.dev)
