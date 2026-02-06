@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](<img width="1200" height="420" alt="image" src="https://github.com/user-attachments/assets/c293d3d8-ac26-4705-ab2f-148818f0a2e2" />
-)
+![](img width="1200" height="420" alt="image" src="https://github.com/user-attachments/assets/c293d3d8-ac26-4705-ab2f-148818f0a2e2)
