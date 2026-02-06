@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<<<<<<< HEAD
+=======
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZmdDhoeDh1dDJoMGx6YmIwNmlxMzkxZWY3a2s4MWNvcGhua29jciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pVWuLuV1JESZJdebkI/giphy.gif)
+>>>>>>> ded6ad1 (Update README.md)
