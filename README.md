@@ -23,16 +23,3 @@ Here are some ideas to get you started:
 
 <h2 align="left">Play Game with me</h2>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ptragaluhhh28/ptragaluhhh28/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ptragaluhhh28/ptragaluhhh28/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ptragaluhhh28/ptragaluhhh28/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/ptragaluhhh28/ptragaluhhh28/output/snake.svg" alt="Snake animation" />
-
-###
