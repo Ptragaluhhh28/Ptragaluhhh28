@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,py,java,react,nodejs,laravel,vscode,ai,ps,instagram,github,discord&theme=light)](https://skillicons.dev)
 
 
-
+![snake gif](https://github.com/ptragaluhhh28/ptragaluhhh28/blob/output/github-snake-dark.svg)
